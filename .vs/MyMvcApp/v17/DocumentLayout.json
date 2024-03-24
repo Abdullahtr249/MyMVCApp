@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MVC\\MyMvcApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB7FB89-EF1F-4992-B279-EE087A962092}|MyMvcApp\\MyMvcApp.csproj|d:\\mvc\\mymvcapp\\mymvcapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB7FB89-EF1F-4992-B279-EE087A962092}|MyMvcApp\\MyMvcApp.csproj|solutionrelative:mymvcapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB7FB89-EF1F-4992-B279-EE087A962092}|MyMvcApp\\MyMvcApp.csproj|d:\\mvc\\mymvcapp\\mymvcapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4EB7FB89-EF1F-4992-B279-EE087A962092}|MyMvcApp\\MyMvcApp.csproj|solutionrelative:mymvcapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB7FB89-EF1F-4992-B279-EE087A962092}|MyMvcApp\\MyMvcApp.csproj|d:\\mvc\\mymvcapp\\mymvcapp\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EB7FB89-EF1F-4992-B279-EE087A962092}|MyMvcApp\\MyMvcApp.csproj|solutionrelative:mymvcapp\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB7FB89-EF1F-4992-B279-EE087A962092}|MyMvcApp\\MyMvcApp.csproj|d:\\mvc\\mymvcapp\\mymvcapp\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EB7FB89-EF1F-4992-B279-EE087A962092}|MyMvcApp\\MyMvcApp.csproj|solutionrelative:mymvcapp\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\MVC\\MyMvcApp\\MyMvcApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "MyMvcApp\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\MVC\\MyMvcApp\\MyMvcApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "MyMvcApp\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-24T08:52:38.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "D:\\MVC\\MyMvcApp\\MyMvcApp\\Views\\Home\\Profile.cshtml",
+              "RelativeDocumentMoniker": "MyMvcApp\\Views\\Home\\Profile.cshtml",
+              "ToolTip": "D:\\MVC\\MyMvcApp\\MyMvcApp\\Views\\Home\\Profile.cshtml",
+              "RelativeToolTip": "MyMvcApp\\Views\\Home\\Profile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T08:14:24.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\MVC\\MyMvcApp\\MyMvcApp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MyMvcApp\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\MVC\\MyMvcApp\\MyMvcApp\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MyMvcApp\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowC8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T22:45:15.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\MVC\\MyMvcApp\\MyMvcApp\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "MyMvcApp\\Views\\Home\\Login.cshtml",
+              "ToolTip": "D:\\MVC\\MyMvcApp\\MyMvcApp\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "MyMvcApp\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T22:42:15.279Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

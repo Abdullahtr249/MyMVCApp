@@ -1,0 +1,27 @@
+﻿
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Profile</title>
+</head>
+<body>
+    <h1 class="profile-heading">Profile</h1>
+
+    @if (!string.IsNullOrEmpty(ViewData["AvatarURL"] as string))
+    {
+        <img src="@ViewData["AvatarURL"]" alt="Avatar" />
+    }
+    else
+    {
+        <p>No avatar available.</p>
+    }
+
+    <form method="post" asp-action="Logout">
+        <button type="submit">Logout</button>
+    </form>
+
+</body>
+</html>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fUaepse8/1j2YSHUSHyLh6wSkjphSE2aHqzjG+5Voh2x/ECrkwDDtY1jffY39t4kzLbhVaruio025IFLXiOi9g==",
+  "success": true,
+  "projectFilePath": "D:\\MVC\\MyMvcApp\\MyMvcApp\\MyMvcApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abdul\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
